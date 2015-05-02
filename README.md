@@ -1,4 +1,4 @@
-# material-design-loading-spinner
+# Material Design Loading Indicator
 
 My attempt on replicating one of the loading indicators from the
 Google material design.
